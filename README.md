@@ -1,11 +1,10 @@
-# TheFatRat_v2
+## TheFatRat_v2
 
 [![Version](https://img.shields.io/badge/TheFatRat_v2-2.0.0-brightgreen.svg?maxAge=259200)]()
 [![Version](https://img.shields.io/badge/Codename-Target-red.svg?maxAge=259200)]()
 [![Stage](https://img.shields.io/badge/Release-Testing-brightgreen.svg)]()
-[![Build](https://img.shields.io/badge/Supported_OS-Linux-orange.svg)]()
-[![Available](https://img.shields.io/badge/Available-BlackArch-red.svg?maxAge=259200)]()
-[![Documentation](https://img.shields.io/badge/CEHv10-eccouncil-blue.svg?maxAge=259200)](https://github.com/ManhNho/CEHv10/tree/master/Slides)
+[![Build](https://img.shields.io/badge/Supported_OS-Linux-brown.svg)]()
+[![Available](https://img.shields.io/badge/Available-BlackArch-brown.svg?maxAge=259200)]()
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-blue.svg?style=flat)]()
 
 
