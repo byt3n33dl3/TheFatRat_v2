@@ -12,14 +12,14 @@
 
 ![Banner](https://user-images.githubusercontent.com/17976841/65820028-6ae17e00-e24e-11e9-894f-35836481cc2c.png)
 
-**TheFatRat_v2** is an exploiting tool which compiles a malware with famous payload, and then the compiled maware can be executed on Linux , Windows , Mac and Android. **TheFatRat_v2** Provides An Easy way to create Backdoors and Payload which can bypass most anti-virus. 
+**TheFatRat_v2** is an exploiting tool which compiles a malware with famous payload, then the compiled malware can be executed on Linux, Windows ( 10, 11 ), Mac, iOS and Android. **TheFatRat_v2** Provides An Easy way to create Backdoors and Payload which can bypass most anti-virus software. 
  
- ## Information
- This tool is for educational purpose only, usage of TheFatRat_v2 for attacking targets without prior mutual consent is illegal.
+## Information
+This tool is for educational purpose only, usage of TheFatRat_v2 for attacking targets without prior mutual consent is illegal.
 Developers assume no liability and are not responsible for any misuse or damage cause by this program.
 
- ## Features !
- - Fully Automating MSFvenom & Metasploit.
+## Features !
+- Fully Automating MSFvenom & Metasploit.
 - Local or remote listener Generation.
 - Easily Make Backdoor by category Operating System.
 - Generate payloads in Various formats.
@@ -28,11 +28,11 @@ Developers assume no liability and are not responsible for any misuse or damage 
 - The ability to detect external IP & Interface address .
 - Automatically creates AutoRun files for USB / CDROM exploitation
 
-### But it's shit! And your implementation sucks!
+#### But it's shit! And your implementation sucks!
 - Yes, you're probably correct. Feel free to "Not use it" and there is a pull button to "Make it better". 
 
 
-# Installation
+## Installation
 Instructions on how to install *TheFatRat_v2*
 ```bash
 git clone https://github.com/pxcs/TheFatRat_v2.git
@@ -64,26 +64,26 @@ chmod +x chk_tools
 	- [CEHv10 Module 06 System Hacking.pdf](https://github.com/khanhnnvn/CEHv10/blob/master/Labs/CEHv10%20Module%2006%20System%20Hacking.pdf)
 	- [CEHv10 Module 17 Hacking Mobile Platforms.pdf](https://github.com/khanhnnvn/CEHv10/blob/master/Labs/CEHv10%20Module%2017%20Hacking%20Mobile%20Platforms.pdf)
 - Published in International Journal of Cyber-Security and Digital Forensics
-	- [Malware Analysis Of Backdoor Creator : TheFatRat_v2](https://www.researchgate.net/publication/323574673_MALWARE_ANALYSIS_OF_BACKDOOR_CREATOR_FATRAT)
+	- [Malware Analysis Of Backdoor Creator : TheFatRat](https://www.researchgate.net/publication/323574673_MALWARE_ANALYSIS_OF_BACKDOOR_CREATOR_FATRAT)
 - Youtube Videos 
-	- [How To Download & Install TheFatRat_v2](https://www.youtube.com/watch?v=FsSgJFxyzFQ)
+	- [How To Download & Install TheFatRat](https://www.youtube.com/watch?v=FsSgJFxyzFQ)
 	- [TheFatRat_v2 1.9.6 - Trodebi ( Embed Trojan into Debian Package )](https://www.youtube.com/watch?v=NCsrcqhUBCc&feature=youtu.be&list=PLbyfDadg3caj6nc3KBk375lKWDOjiCmb8)
-	- [hacking windows 10 with TheFatRat_v2](https://www.youtube.com/watch?v=bFXVAXRXE9Q )
-	- [Hacking Windows using TheFatRat_v2 + Apache2 Server + Ettercap + Metasploit](https://www.youtube.com/watch?v=FlXMslSjnGw)
-	- [Hacking with a Microsoft Office Word Document from TheFatRat_v2](https://www.youtube.com/watch?v=lglOXojT84M)
-	- [XSS to powershell attack and bypass Antivirus using BeEF + TheFatRat_v2 + Metasploit](https://www.youtube.com/watch?v=pbvg7pgxVjo)
+	- [hacking windows 10 with TheFatRat](https://www.youtube.com/watch?v=bFXVAXRXE9Q )
+	- [Hacking Windows using TheFatRat + Apache2 Server + Ettercap + Metasploit](https://www.youtube.com/watch?v=FlXMslSjnGw)
+	- [Hacking with a Microsoft Office Word Document from TheFatRat](https://www.youtube.com/watch?v=lglOXojT84M)
+	- [XSS to powershell attack and bypass Antivirus using BeEF + TheFatRat + Metasploit](https://www.youtube.com/watch?v=pbvg7pgxVjo)
 	- [TheFatRat_v2 - Hacking Over WAN - Embedding Payload in Original Android APK - Without Port Forwarding](https://www.youtube.com/watch?v=XLNigYZ5-fM)
-	- [How To Automatically Embed Payloads In APK's - Evil-Droid, TheFatRat_v2 & Apkinjector](https://www.youtube.com/watch?v=C_Og6LnEZSg)
-	- [Bind FUD Payload with JPG and Hack over WAN with TheFatRat_v2](https://www.youtube.com/watch?v=VPl1TMCAIy8)
+	- [How To Automatically Embed Payloads In APK's - Evil-Droid, TheFatRat & Apkinjector](https://www.youtube.com/watch?v=C_Og6LnEZSg)
+	- [Bind FUD Payload with JPG and Hack over WAN with TheFatRat](https://www.youtube.com/watch?v=VPl1TMCAIy8)
 
 
 ## Changelog
-All notable changes to this project will be documented in this [file](https://github.com/Screetsec/TheFatRat_v2/blob/master/CHANGELOG.md).
+All notable changes to this project will be documented in this [file](https://github.com/pxcs/TheFatRat_v2/blob/master/CHANGELOG.md).
 
 ### About issues
-- Read the [document](https://github.com/Screetsec/TheFatRat_v2/blob/master/issues.md) before making an issue
+- Read the [document](https://github.com/pxcs/TheFatRat_v2/blob/master/issues.md) before making an issue
 
-## Alternative Best Tool - Generating Backdoor & Bypass 
+### Alternative Best Tool - Generating Backdoor & Bypass 
 - [Veil-Framework /Veil](https://github.com/Veil-Framework/Veil) - Veil Framework 
 - [Shellter](https://www.shellterproject.com/download/) - Shellter AV Evasion Artware
 - [Unicorn](https://github.com/trustedsec/unicorn) - Trustedsec 
@@ -105,6 +105,5 @@ All notable changes to this project will be documented in this [file](https://gi
 - [Gauli(dot)Net](https://gauli.net/) - Lab Penetration
 
 ## License
-TheFatRat_v2 is made with love by ( Edo Maland :: The original creator ) & All [Contributors](https://github.com/Screetsec/TheFatRat_v2/graphs/contributors). See the **License** file for more details.
-
+TheFatRat_v2 is made with love by ( Edo Maland :: The original creator ) & All [Contributors](https://github.com/Screetsec/TheFatRat/graphs/contributors). See the **License** file for more details.
 
