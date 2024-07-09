@@ -67,12 +67,12 @@ chmod +x chk_tools
 	- [Malware Analysis Of Backdoor Creator : TheFatRat](https://www.researchgate.net/publication/323574673_MALWARE_ANALYSIS_OF_BACKDOOR_CREATOR_FATRAT)
 - Youtube Videos 
 	- [How To Download & Install TheFatRat](https://www.youtube.com/watch?v=FsSgJFxyzFQ)
-	- [TheFatRat_v2 1.9.6 - Trodebi ( Embed Trojan into Debian Package )](https://www.youtube.com/watch?v=NCsrcqhUBCc&feature=youtu.be&list=PLbyfDadg3caj6nc3KBk375lKWDOjiCmb8)
+	- [TheFatRat_v2 2.0.0 - Trodebi ( Embed Trojan into Debian Package )](https://www.youtube.com/watch?v=NCsrcqhUBCc&feature=youtu.be&list=PLbyfDadg3caj6nc3KBk375lKWDOjiCmb8)
 	- [hacking windows 10 with TheFatRat](https://www.youtube.com/watch?v=bFXVAXRXE9Q )
 	- [Hacking Windows using TheFatRat + Apache2 Server + Ettercap + Metasploit](https://www.youtube.com/watch?v=FlXMslSjnGw)
 	- [Hacking with a Microsoft Office Word Document from TheFatRat](https://www.youtube.com/watch?v=lglOXojT84M)
 	- [XSS to powershell attack and bypass Antivirus using BeEF + TheFatRat + Metasploit](https://www.youtube.com/watch?v=pbvg7pgxVjo)
-	- [TheFatRat_v2 - Hacking Over WAN - Embedding Payload in Original Android APK - Without Port Forwarding](https://www.youtube.com/watch?v=XLNigYZ5-fM)
+	- [TheFatRat - Hacking Over WAN - Embedding Payload in Original Android APK - Without Port Forwarding](https://www.youtube.com/watch?v=XLNigYZ5-fM)
 	- [How To Automatically Embed Payloads In APK's - Evil-Droid, TheFatRat & Apkinjector](https://www.youtube.com/watch?v=C_Og6LnEZSg)
 	- [Bind FUD Payload with JPG and Hack over WAN with TheFatRat](https://www.youtube.com/watch?v=VPl1TMCAIy8)
 
@@ -102,8 +102,7 @@ All notable changes to this project will be documented in this [file](https://gi
 - [Raphael Mudge](https://github.com/rsmudge) - External Source
 - [astr0baby](https://astr0baby.wordpress.com) - Reference Source
 - [NgeSEC](https://ngesec.id/) Community
-- [Gauli(dot)Net](https://gauli.net/) - Lab Penetration
+- [Gauli( dot )Net](https://gauli.net/) - Lab Penetration
 
 ## License
 TheFatRat_v2 is made with love by ( Edo Maland :: The original creator ) & All [Contributors](https://github.com/Screetsec/TheFatRat/graphs/contributors). See the **License** file for more details.
-
